@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# GDevelop / export folders
+export/
+build/
+*.gdevelop
+*.gdx
+*.proj
+/tmp/
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Node / Cordova (if used)
+node_modules/
+www/
+plugins/
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+DerivedData/
+
+# Misc
+*.log
+assets/*.psd
+assets/*.xcf
